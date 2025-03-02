@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Garvit!
+# 👋 Hello, I'm Garvit!
 
 A passionate Full Stack Developer and CS student at UPES, crafting digital experiences with code. I specialize in building scalable web applications using the MERN stack and have a knack for solving complex problems through elegant solutions.
 
